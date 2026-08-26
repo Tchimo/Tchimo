@@ -1,30 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Settimio 👋
 
-Olá eu sou Settimio Yoghna Bidjoque Da Costa ✋🏼
+Estudante de Engenharia de Computação (UFSC), com foco em transformar dados em decisões — de dashboards a modelos preditivos.
 
-Sobre mim
-🎓 Estudante de Engenharia de Computação na UFSC e Data Science no DNC.
-🔧 Experiência em programação com Python, análise de dados, e automação de processos.
-🚀 Interessado em Ciência de Dados, Inteligência Artificial e Michine Learning.
+## Sobre mim
 
+- 🎓 Cursando Engenharia de Computação na UFSC e Data Science na DNC
+- 🔧 Experiência prática em análise de dados, modelagem preditiva e construção de dashboards
+- 🚀 Interessado em Dados, Inteligência Artificial e automação de processos (N8N)
+- 📌 Confira meus projetos fixados abaixo — cada um com README detalhado e resultados reais
 
-🔧Linguagens e  Ferrametais
+## Linguagens e Ferramentas
 
-![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## GitHub Stats
 
-![Blog](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tchimo&show_icons=true&theme=default)
 
-POWER BI
+## Contato
 
-
-
-
-Contato
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/settimio-yoghna-bidjoque-da-costa-1067aa206/)
-
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](settimiotchimo2021@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/settimio-yoghna-bidjoque-da-costa-1067aa206/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:settimiotchimo2021@gmail.com)
 
