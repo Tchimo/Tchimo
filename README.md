@@ -21,6 +21,7 @@ Estudante de Engenharia de Computação (UFSC), com foco em transformar dados em
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tchimo&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tchimo&show_icons=true&theme=default&cache_seconds=86400)
 
 ## Contato
 
