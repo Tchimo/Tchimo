@@ -66,6 +66,21 @@ API → Extract → Transform → PostgreSQL
 **Tecnologias:** Python · Airflow · PostgreSQL · SQLAlchemy · Docker · Pandas · REST API
 
 ---
+### 📊 Sistema de Gerenciamento de Eventos — MySQL
+
+Projeto de modelagem e implementação de um **banco de dados relacional** desenvolvido na disciplina de Banco de Dados I da UFSC.
+
+O projeto contempla desde a **modelagem conceitual e lógica** até a implementação física em MySQL e integração com Python.
+
+* Modelagem de entidades, relacionamentos e cardinalidades
+* Implementação do modelo relacional em MySQL
+* CRUD utilizando Python
+* Consultas SQL voltadas a problemas de negócio
+* Uso de variáveis de ambiente para configuração do banco
+* Visualização dos resultados das consultas
+
+**Tecnologias:** MySQL · SQL · Python · mysql-connector-python · brModelo · Excel
+
 
 ## 🛠️ Tecnologias
 
