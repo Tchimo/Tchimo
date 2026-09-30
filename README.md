@@ -26,7 +26,7 @@ Sistema de recomendação e classificação de patentes utilizando **LLMs, embed
 
 ---
 
-### 🏆 Lakehouse — Preços de Combustíveis
+### 🏆 Lakehouse — Preços de Combustíveis "Em Finalização"
 
 Pipeline de Engenharia de Dados utilizando dados públicos da **ANP**, estruturado em arquitetura **Bronze → Silver → Gold**.
 
