@@ -1,6 +1,6 @@
 ## Olá, eu sou o Settimio 👋
 
-### Engenharia de Computação | Data Engineering | AI Engineering
+### Engenharia de Computação | Data Engineering | AI Engineering | Machine Learning
 
 🎓 Estudante de Engenharia de Computação na **Universidade Federal de Santa Catarina (UFSC)**, com interesse em **Engenharia de Dados, Inteligência Artificial, Machine Learning e Desenvolvimento de Software**.
 
