@@ -4,7 +4,7 @@
 
 🎓 Estudante de Engenharia de Computação na **Universidade Federal de Santa Catarina (UFSC)**, com interesse em **Engenharia de Dados, Inteligência Artificial, Machine Learning e Desenvolvimento de Software**.
 
-Construo sistemas de dados e aplicações de IA utilizando **Python, SQL, Docker, dbt, FastAPI, Airflow, LangGraph, Qdrant e ferramentas de Machine Learning**.
+Construindo experiências, contruindo sistemas de dados e aplicações de IA utilizando **Python, SQL, Docker, dbt, FastAPI, Airflow, LangGraph, Sistemas RAG e ferramentas de Machine Learning**.
 
 Tenho interesse em transformar dados e modelos de IA em soluções práticas, com foco em **pipelines de dados, arquiteturas analíticas, sistemas de recuperação de informação e aplicações inteligentes**.
 
